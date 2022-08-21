@@ -1,0 +1,7 @@
+{
+  "name": "notify",
+  "description": "notifications inapp",
+  "author": "zKBTuran",
+  "file": "plugin.js",
+  "license": "gplv3"
+}
